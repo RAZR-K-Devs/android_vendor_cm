@@ -151,7 +151,9 @@ PRODUCT_PACKAGES += \
     CMUpdater \
     CMFota \
     CMAccount \
-    HALO
+    HALO \
+    ScreenRecorder \
+    libscreenrecorder
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
