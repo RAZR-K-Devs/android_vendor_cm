@@ -150,7 +150,8 @@ PRODUCT_PACKAGES += \
     LockClock \
     CMUpdater \
     CMFota \
-    CMAccount
+    CMAccount \
+    HALO
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
